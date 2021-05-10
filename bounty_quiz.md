@@ -105,3 +105,9 @@ How many days a round of Honor Hunting last for?
 * ~~Its claws become black~~
 * ~~Its tail waves~~
 * ~~Its eyes glow~~
+
+### 我们通过哪个状态可以知道三头地狱犬达到了今天的第3阶段？
+* **它的眼睛发光**
+* ~~它的尾巴波~~
+* ~~它的爪子变黑~~
+* ~~它的肩膀冒火~~
