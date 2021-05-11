@@ -113,6 +113,12 @@ Don't just send us screenshots.
 * ~~Gems~~
 * ~~Voucher for a Super Card Pack~~
 
+### Where can you NOT obtain epic troops?
+* **Normal Card Pack**
+* ~~Super card packs~~
+* ~~15-30-60-120K cards~~
+* ~~Temple of Fusion~~
+
 ### Davison capabilities are related to:
 * **Allied units health**
 * ~~Increase in attack speed of Allied units~~
@@ -124,6 +130,12 @@ Don't just send us screenshots.
 * ~~500~~
 * ~~700~~
 * ~~550~~
+
+## Which hero is better at max level when fighting Cerberus (with an army including a lot of range troops)?
+* **Dracula**
+* ~~Poseidon~~
+* ~~Danta~~
+* ~~Planck~~
 
 ### How can you tell that Cerberus has reached level 2 in the current day?
 * **Its shoulders are on fire**
@@ -149,6 +161,11 @@ Don't just send us screenshots.
 * ~~Android users~~
 * ~~Players who have close relationships with devs~~
 
+### The first purchase prize is?
+* **Ivan**
+* ~~Zeus~~
+* ~~Athena~~
+* ~~Aly~~
 
 ### What is the rhino knight’s main advantage?
 * **Speed**
