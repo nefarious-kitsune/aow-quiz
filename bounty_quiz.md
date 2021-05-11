@@ -53,6 +53,12 @@ Don't just send us screenshots.
 * ~~Selene~~
 * ~~Poseidon~~
 
+### How many hunting medals does an Apollo shard cost?
+* **1800**
+* ~~1750~~
+* ~~2200~~
+* ~~2000~~
+
 ### How many days a round of Honor Hunting last for?
 * **7**
 * ~~14~~
@@ -172,3 +178,9 @@ Don't just send us screenshots.
 * ~~Frightening enemy troops~~
 * ~~Dropping poisonous poo~~
 * ~~Shooting arrows~~
+
+### Which troop(s) has/have the highest attack speed?
+* **Rhino Knight**
+* ~~Templar Knight~~
+* ~~Voodoo Dolls~~
+* ~~Peltasts~~
