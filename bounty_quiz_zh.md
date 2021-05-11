@@ -179,6 +179,12 @@ Don't just send us screenshots.
 * ~~Android 用戶~~
 * ~~與開發者關係密切的玩家~~
 
+### 您会在AoW Discord的哪里找到有关如何参加饥饿游戏的说明？
+* **hunger-games-help**
+* ~~Bot-Commands~~
+* ~~Chatter Box~~
+* ~~hunger-games-arena~~
+
 ### 首充獎勵是？
 * **伊凡**
 * ~~宙斯~~
