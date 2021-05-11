@@ -83,6 +83,12 @@ Don't just send us screenshots.
 * ~~Dante~~
 * ~~Kelvins~~
 
+### What is the name of the Hohenheim’s skin?
+* **Mad Alchemist**
+* ~~Crazy Alchemist~~
+* ~~Mad Chemist~~
+* ~~Crazy Alchemist~~
+
 ### How many gems does the first-place clan win?
 * **3000**
 * ~~2500~~
@@ -139,6 +145,13 @@ Don't just send us screenshots.
 
 ### When a new version/game update is announced by the dev, who receives the update first?
 * **Based on the process time by the App Store/Google Play Store**
-* ~~iOS users iOS用戶~~
-* ~~Android users Android 用戶~~
+* ~~iOS users~~
+* ~~Android users~~
 * ~~Players who have close relationships with devs~~
+
+
+### What is the rhino knight’s main advantage?
+* **Speed**
+* ~~Frightening enemy troops~~
+* ~~Dropping poisonous poo~~
+* ~~Shooting arrows~~
