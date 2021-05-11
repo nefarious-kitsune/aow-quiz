@@ -47,6 +47,12 @@ Don't just send us screenshots.
 * ~~Selene~~
 * ~~Chione~~
 
+### Which hero does not use a shield?
+* **Arthur**
+* ~~Kelvins~~
+* ~~Beowulf~~
+* ~~Athena~~
+
 ### Which hero can NOT be obtained as a reward from exp system?
 * **Cassandra**
 * ~~Kelvins~~
@@ -100,6 +106,12 @@ Don't just send us screenshots.
 * ~~2500~~
 * ~~4500~~
 * ~~2750~~
+
+### How many gems will you get as a reward for reaching Bronze rank after the Season ends in the Arena?
+* **0**
+* ~~5~~
+* ~~10~~
+* ~~15~~
 
 ### How much Exp do you receive if you get a 1-star legendary troops?
 * **6**
