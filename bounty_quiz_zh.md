@@ -113,6 +113,12 @@ Don't just send us screenshots.
 * ~~Gems~~
 * ~~Voucher for a Super Card Pack~~
 
+### 在哪裡不能獲得史詩品質的士兵？
+* **普通卡包**
+* ~~超級卡包~~
+* ~~15-30-60-120K士兵卡~~
+* ~~熔煉神殿~~
+
 ### Davison capabilities are related to:
 * **Allied units health**
 * ~~Increase in attack speed of Allied units~~
@@ -124,6 +130,12 @@ Don't just send us screenshots.
 * ~~500~~
 * ~~700~~
 * ~~550~~
+
+## 與地獄三頭犬進行戰鬥時，使用哪個滿級英雄更好(配合大量遠程士兵的軍隊)？
+* **德古拉**
+* ~~波塞冬~~
+* ~~但丁~~
+* ~~普朗克~~
 
 ### 我們通過哪個狀態可以知道三頭地獄犬達到了的第2階段？
 * **它的肩膀冒火**
@@ -148,6 +160,12 @@ Don't just send us screenshots.
 * ~~iOS用戶~~
 * ~~Android 用戶~~
 * ~~與開發者關係密切的玩家~~
+
+### 首充獎勵是？
+* **伊凡**
+* ~~宙斯~~
+* ~~雅典娜~~
+* ~~阿狸~~
 
 ### 犀牛騎士的主要優勢是什麼？
 * **Speed 移動速度**
