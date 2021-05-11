@@ -35,13 +35,25 @@ Don't just send us screenshots.
 * ~~Azrael~~
 * ~~Drake~~
 
-## Which hero can NOT be obtained as a reward from exp system?
+### Who is the Tree of Life?
+* **Green**
+* ~~Hohenheim~~
+* ~~Minotaur~~
+* ~~Drake~~
+
+### Which hero is not holding anything?
+* **Green**
+* ~~Seondeok~~
+* ~~Selene~~
+* ~~Chione~~
+
+### Which hero can NOT be obtained as a reward from exp system?
 * **Cassandra**
 * ~~Kelvins~~
 * ~~Selene~~
 * ~~Poseidon~~
 
-## How many days a round of Honor Hunting last for?
+### How many days a round of Honor Hunting last for?
 * **7**
 * ~~14~~
 * ~~10~~
@@ -52,6 +64,24 @@ Don't just send us screenshots.
 * ~~Dracula~~
 * ~~Azrael~~
 * ~~Mephisto~~
+
+### Which of the following Heroes CANNOT increase the Attack Speed of friendly troops?
+* **Apollo**
+* ~~Edward~~
+* ~~Planck~~
+* ~~Drake~~
+
+### Which of the following Heroes CANNOT decrease the Attack Speed of enemy troops?
+* **Seondeok**
+* ~~Edward~~
+* ~~Chione~~
+* ~~Poseidon~~
+
+## Which of the following Heroes CANNOT decrease the Movement Speed of friendly troops?
+* **Illum**
+* ~~Edward~~
+* ~~Dante~~
+* ~~Kelvins~~
 
 ### How many gems does the first-place clan win?
 * **3000**
@@ -100,3 +130,15 @@ Don't just send us screenshots.
 * ~~Its shoulders are on fire~~
 * ~~Its claws become black~~
 * ~~Its tail waves~~
+
+### How many gems is the reward of the first chest in Daily Quests? 
+* **100**
+* ~~150~~
+* ~~30~~
+* ~~60~~
+
+### When a new version/game update is announced by the dev, who receives the update first?
+* **Based on the process time by the App Store/Google Play Store**
+* ~~iOS users iOS用戶~~
+* ~~Android users Android 用戶~~
+* ~~Players who have close relationships with devs~~
